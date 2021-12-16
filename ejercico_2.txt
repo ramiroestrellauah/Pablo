@@ -1,0 +1,10 @@
+	int medfij=25;
+	int medSen=0;
+
+	mdt=MediSen();
+
+	if(medSem>medfij){
+	  do{
+		ModVar();
+	  }while(medfij>medSen)
+	}
